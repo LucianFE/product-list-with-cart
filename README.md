@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Link](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Link]([https://your-solution-url.com](https://github.com/LucianFE/product-list-with-cart))
+- Live Site URL: [Live site URL here]([https://your-live-site-url.com](https://product-list-addtocart-react.netlify.app/))
 
 ## My process
 
